@@ -1,0 +1,527 @@
+Log file created at: 2016/10/19 22:48:41
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1019 22:48:41.006781 13136 server.cpp:155] Recv_TCP_Packet_Thread_Func
+I1019 22:48:46.008500 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:48:48.009204 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:48:50.009912 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:48:52.010423 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:48:52.307274 13136 recv_tcp_heartPacket.h:169] 8total 10972
+-rw-r--r
+I1019 22:48:52.307358 13136 recv_tcp_heartPacket.h:169] 8-- 1 zlc zlc      12
+I1019 22:48:52.307377 13136 recv_tcp_heartPacket.h:169] 88 Oct 19 20:38 8_tem
+I1019 22:48:52.307394 13136 recv_tcp_heartPacket.h:169] 8p
+-rwxrwxr-x 1 zlc z
+I1019 22:48:52.307410 13136 recv_tcp_heartPacket.h:169] 8lc    70792 Oct 19 2
+I1019 22:48:52.307425 13136 recv_tcp_heartPacket.h:169] 82:48 client
+-rw-rw-r
+I1019 22:48:52.307441 13136 recv_tcp_heartPacket.h:169] 8-- 1 zlc zlc     316
+I1019 22:48:52.307456 13136 recv_tcp_heartPacket.h:169] 82 Oct 18 20:05 clien
+I1019 22:48:52.307471 13136 recv_tcp_heartPacket.h:169] 8t.cpp
+-rw------- 1 z
+I1019 22:48:52.307487 13136 recv_tcp_heartPacket.h:169] 8lc zlc 11112448 Oct 
+I1019 22:48:52.307502 13136 recv_tcp_heartPacket.h:169] 818 02:40 core
+-rw-rw
+I1019 22:48:52.307518 13136 recv_tcp_heartPacket.h:169] 8-r-- 1 zlc zlc      
+I1019 22:48:52.307533 13136 recv_tcp_heartPacket.h:169] 8179 Oct 18 06:54 mak
+I1019 22:48:52.307548 13136 recv_tcp_heartPacket.h:169] 8efile
+-rw-rw-r-- 1 z
+I1019 22:48:52.307564 13136 recv_tcp_heartPacket.h:169] 8lc zlc     5063 Oct 
+I1019 22:48:52.307579 13136 recv_tcp_heartPacket.h:169] 819 22:48 recv_TCP_cm
+I1019 22:48:52.307595 13136 recv_tcp_heartPacket.h:169] 8d.h
+-rw-rw-r-- 1 zlc
+I1019 22:48:52.307610 13136 recv_tcp_heartPacket.h:169] 8 zlc     2459 Oct 19
+I1019 22:48:52.307626 13136 recv_tcp_heartPacket.h:169] 8 02:34 recv_UDPHeart
+I1019 22:48:52.307641 13136 recv_tcp_heartPacket.h:169] 8.h
+-rw-rw-r-- 1 zlc 
+I1019 22:48:52.307657 13136 recv_tcp_heartPacket.h:169] 8zlc     2253 Oct 19 
+I1019 22:48:52.307672 13136 recv_tcp_heartPacket.h:169] 822:04 send_TCP_heart
+I1019 22:48:52.307687 13136 recv_tcp_heartPacket.h:169] 8_packet.h
+-rw-rw-r--
+I1019 22:48:52.307701 13136 recv_tcp_heartPacket.h:169] 8 1 zlc zlc     3127 
+I1019 22:48:52.307716 13136 recv_tcp_heartPacket.h:169] 8Oct 19 00:37 temp
+-r
+I1019 22:48:52.307734 13136 recv_tcp_heartPacket.h:169] 8wxrwxr-x 1 zlc zlc  
+I1019 22:48:52.307749 13136 recv_tcp_heartPacket.h:169] 8   8952 Oct 19 22:46
+I1019 22:48:52.307763 13136 recv_tcp_heartPacket.h:169] 8 test
+-rw-rw-r-- 1 z
+I1019 22:48:52.307780 13136 recv_tcp_heartPacket.h:169] 8lc zlc      203 Oct 
+I1019 22:48:52.307795 13136 recv_tcp_heartPacket.h:169] 819 22:46 testexe.cpp
+I1019 22:48:52.307811 13136 recv_tcp_heartPacket.h:169] 8
+9 22:46 testexe.cpp
+I1019 22:48:54.011741 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:48:56.013031 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:48:58.014375 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:00.014587 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:00.587206 13136 recv_tcp_heartPacket.h:169] 87E457E457E45
+I1019 22:49:00.589869 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.589952 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.589975 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.589994 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.590013 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.590034 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603318 13136 recv_tcp_heartPacket.h:169] 8ELF
+I1019 22:49:00.603444 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603456 13136 recv_tcp_heartPacket.h:169] 88
+I1019 22:49:00.603462 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603471 13136 recv_tcp_heartPacket.h:169] 8@
+I1019 22:49:00.603477 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603484 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603492 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603498 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603504 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603512 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603518 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603548 13136 recv_tcp_heartPacket.h:169] 8¯
+I1019 22:49:00.603555 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603562 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603569 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603576 13136 recv_tcp_heartPacket.h:169] 8‡
+I1019 22:49:00.603584 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603590 13136 recv_tcp_heartPacket.h:169] 8T@
+I1019 22:49:00.603597 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603605 13136 recv_tcp_heartPacket.h:169] 8PÂtd
+I1019 22:49:00.603611 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603618 13136 recv_tcp_heartPacket.h:169] 8D
+I1019 22:49:00.603626 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603632 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603639 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603646 13136 recv_tcp_heartPacket.h:169] 8¯
+I1019 22:49:00.603653 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603660 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603667 13136 recv_tcp_heartPacket.h:169] 8nux-x86-64.so.2
+I1019 22:49:00.603674 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603682 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603688 13136 recv_tcp_heartPacket.h:169] 8GNU
+I1019 22:49:00.603695 13136 recv_tcp_heartPacket.h:169] 8§◊ ü
+I1019 22:49:00.603703 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603709 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603716 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603723 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603729 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603736 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603744 13136 recv_tcp_heartPacket.h:169] 8£
+I1019 22:49:00.603750 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603757 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603765 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603771 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603777 13136 recv_tcp_heartPacket.h:169] 8 
+I1019 22:49:00.603785 13136 recv_tcp_heartPacket.h:169] 8i
+I1019 22:49:00.603791 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603798 13136 recv_tcp_heartPacket.h:169] 8__gmon_start__
+I1019 22:49:00.603806 13136 recv_tcp_heartPacket.h:169] 8egisterClasses
+I1019 22:49:00.603812 13136 recv_tcp_heartPacket.h:169] 8deregisterTMCloneTab
+I1019 22:49:00.603822 13136 recv_tcp_heartPacket.h:169] 8le
+I1019 22:49:00.603829 13136 recv_tcp_heartPacket.h:169] 8oneTable
+I1019 22:49:00.603837 13136 recv_tcp_heartPacket.h:169] 8ase4InitD1Ev
+I1019 22:49:00.603843 13136 recv_tcp_heartPacket.h:169] 8os_base4InitC1Ev
+I1019 22:49:00.603852 13136 recv_tcp_heartPacket.h:169] 8c.so.6
+I1019 22:49:00.603858 13136 recv_tcp_heartPacket.h:169] 8texit
+I1019 22:49:00.603866 13136 recv_tcp_heartPacket.h:169] 8ain
+I1019 22:49:00.603873 13136 recv_tcp_heartPacket.h:169] 8CXX_3.4
+I1019 22:49:00.603879 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603886 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603893 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603900 13136 recv_tcp_heartPacket.h:169] 8t)í
+I1019 22:49:00.603907 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603914 13136 recv_tcp_heartPacket.h:169] 8`
+I1019 22:49:00.603921 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603929 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603935 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603942 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603950 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603956 13136 recv_tcp_heartPacket.h:169] 8HÉÏHãu
+ 
+I1019 22:49:00.603963 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603971 13136 recv_tcp_heartPacket.h:169] 8ˇ5b
+ 
+I1019 22:49:00.603977 13136 recv_tcp_heartPacket.h:169] 8 
+I1019 22:49:00.603984 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.603992 13136 recv_tcp_heartPacket.h:169] 8¿ˇˇˇˇ%J
+ 
+I1019 22:49:00.603999 13136 recv_tcp_heartPacket.h:169] 8ˇ%B
+ 
+I1019 22:49:00.604007 13136 recv_tcp_heartPacket.h:169] 8 
+I1019 22:49:00.604013 13136 recv_tcp_heartPacket.h:169] 8‚HÉ‰PTI«¿
+I1019 22:49:00.604027 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604035 13136 recv_tcp_heartPacket.h:169] 8∏W`
+I1019 22:49:00.604043 13136 recv_tcp_heartPacket.h:169] 8∏
+I1019 22:49:00.604049 13136 recv_tcp_heartPacket.h:169] 8Ñ
+I1019 22:49:00.604056 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604064 13136 recv_tcp_heartPacket.h:169] 8HâÂHâH¡Ë?H∆H—˛t∏
+I1019 22:49:00.604073 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604079 13136 recv_tcp_heartPacket.h:169] 8]√fD
+I1019 22:49:00.604086 13136 recv_tcp_heartPacket.h:169] 8ÂËnˇˇˇ]∆v	 
+I1019 22:49:00.604094 13136 recv_tcp_heartPacket.h:169] 8ø`
+I1019 22:49:00.604100 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604107 13136 recv_tcp_heartPacket.h:169] 8âÂπ
+I1019 22:49:00.604115 13136 recv_tcp_heartPacket.h:169] 8@
+I1019 22:49:00.604122 13136 recv_tcp_heartPacket.h:169] 8HâÂHÉÏâ}¸âu¯É}¸u'Å
+I1019 22:49:00.604130 13136 recv_tcp_heartPacket.h:169] 8}¯ˇˇ
+I1019 22:49:00.604137 13136 recv_tcp_heartPacket.h:169] 8`
+I1019 22:49:00.604145 13136 recv_tcp_heartPacket.h:169] 8√UHâÂæˇˇ
+I1019 22:49:00.604151 13136 recv_tcp_heartPacket.h:169] 8]√f.Ñ
+I1019 22:49:00.604158 13136 recv_tcp_heartPacket.h:169] 8AâˇAUATLç%V 
+I1019 22:49:00.604166 13136 recv_tcp_heartPacket.h:169] 8 
+I1019 22:49:00.604173 13136 recv_tcp_heartPacket.h:169] 8Ë∑˝ˇˇHÖÌt 1€Ñ
+I1019 22:49:00.604181 13136 recv_tcp_heartPacket.h:169] 8LâÍLâˆDâˇAˇ‹HÉ√H9Î
+I1019 22:49:00.604188 13136 recv_tcp_heartPacket.h:169] 8uÍHÉƒ[]A\A]A^A_√êf.
+I1019 22:49:00.604197 13136 recv_tcp_heartPacket.h:169] 8Ñ
+I1019 22:49:00.604203 13136 recv_tcp_heartPacket.h:169] 8√
+I1019 22:49:00.604210 13136 recv_tcp_heartPacket.h:169] 8t
+I1019 22:49:00.604218 13136 recv_tcp_heartPacket.h:169] 8å
+I1019 22:49:00.604224 13136 recv_tcp_heartPacket.h:169] 8ˇˇˇ‘
+I1019 22:49:00.604231 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604239 13136 recv_tcp_heartPacket.h:169] 8zR
+I1019 22:49:00.604246 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604254 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604260 13136 recv_tcp_heartPacket.h:169] 8ê
+I1019 22:49:00.604267 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604274 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604281 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604288 13136 recv_tcp_heartPacket.h:169] 8d
+I1019 22:49:00.604295 13136 recv_tcp_heartPacket.h:169] 8y
+I1019 22:49:00.604302 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604310 13136 recv_tcp_heartPacket.h:169] 8D
+I1019 22:49:00.604316 13136 recv_tcp_heartPacket.h:169] 8èBéE çB(åH0
+I1019 22:49:00.604324 13136 recv_tcp_heartPacket.h:169] 8ÜH8ÉM@r8A0A(B
+I1019 22:49:00.604332 13136 recv_tcp_heartPacket.h:169] 8 BBB
+I1019 22:49:00.604409 13136 recv_tcp_heartPacket.h:169] 8x˛ˇˇ
+I1019 22:49:00.604418 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604425 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604432 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604439 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604446 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604454 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604461 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604468 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604475 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604482 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604490 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604496 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604503 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604511 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604517 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604524 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604532 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604538 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604545 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604552 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604559 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604567 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604573 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604590 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604598 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604604 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604611 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604619 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604625 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604634 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604640 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604647 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604655 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604661 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604668 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604676 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604682 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604689 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604696 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604703 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604710 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604717 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604724 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604732 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604738 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604745 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604753 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604759 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604766 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604774 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604781 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604789 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604795 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604802 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604809 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604816 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604823 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604830 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604837 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604845 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604851 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604858 13136 recv_tcp_heartPacket.h:169] 8¯`
+I1019 22:49:00.604866 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604873 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604881 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604887 13136 recv_tcp_heartPacket.h:169] 8∞@
+I1019 22:49:00.604894 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604902 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604909 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604917 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604923 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604930 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604938 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604944 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604951 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604959 13136 recv_tcp_heartPacket.h:169] 8ˇˇˇo
+I1019 22:49:00.604965 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604980 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604989 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.604995 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605002 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605010 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605017 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605024 13136 recv_tcp_heartPacket.h:169] 8∂@
+I1019 22:49:00.605031 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605039 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605046 13136 recv_tcp_heartPacket.h:169] 8 (Ubuntu 5.4.0-6ubun
+I1019 22:49:00.605054 13136 recv_tcp_heartPacket.h:169] 8tu1~16.04.2) 5.4.0 2
+I1019 22:49:00.605062 13136 recv_tcp_heartPacket.h:169] 80160609
+I1019 22:49:00.605069 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605077 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605085 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605105 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605114 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605123 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605129 13136 recv_tcp_heartPacket.h:169] 8¿@
+I1019 22:49:00.605137 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605145 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605152 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605159 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605166 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605173 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605180 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605187 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605195 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605202 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605211 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605217 13136 recv_tcp_heartPacket.h:169] 8@
+I1019 22:49:00.605224 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605232 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605238 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605245 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605253 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605260 13136 recv_tcp_heartPacket.h:169] 8`
+I1019 22:49:00.605268 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605276 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605283 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605290 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605298 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605304 13136 recv_tcp_heartPacket.h:169] 8@`
+I1019 22:49:00.605311 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605319 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605325 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605334 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605397 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605413 13136 recv_tcp_heartPacket.h:169] 8@@
+I1019 22:49:00.605420 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605427 13136 recv_tcp_heartPacket.h:169] 8.
+I1019 22:49:00.605434 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605442 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605449 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605456 13136 recv_tcp_heartPacket.h:169] 8‡@
+I1019 22:49:00.605463 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605470 13136 recv_tcp_heartPacket.h:169] 8•
+I1019 22:49:00.605478 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605484 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605491 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605499 13136 recv_tcp_heartPacket.h:169] 8m@
+I1019 22:49:00.605505 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605512 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605520 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605526 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605533 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605540 13136 recv_tcp_heartPacket.h:169] 8$@
+I1019 22:49:00.605548 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605556 13136 recv_tcp_heartPacket.h:169] 8G
+I1019 22:49:00.605562 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605569 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605576 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605583 13136 recv_tcp_heartPacket.h:169] 8@`
+I1019 22:49:00.605590 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605597 13136 recv_tcp_heartPacket.h:169] 8à
+I1019 22:49:00.605604 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605612 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605618 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605625 13136 recv_tcp_heartPacket.h:169] 8@
+I1019 22:49:00.605633 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605639 13136 recv_tcp_heartPacket.h:169] 8Ã
+I1019 22:49:00.605646 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605654 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605660 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605667 13136 recv_tcp_heartPacket.h:169] 8@
+I1019 22:49:00.605684 13136 recv_tcp_heartPacket.h:169] 8 
+I1019 22:49:00.605691 13136 recv_tcp_heartPacket.h:169] 8Y
+I1019 22:49:00.605698 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605705 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605712 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605720 13136 recv_tcp_heartPacket.h:169] 8P`
+I1019 22:49:00.605726 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605733 13136 recv_tcp_heartPacket.h:169] 8®
+I1019 22:49:00.605741 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605747 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605754 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605762 13136 recv_tcp_heartPacket.h:169] 8P`
+I1019 22:49:00.605768 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605775 13136 recv_tcp_heartPacket.h:169] 8≤
+I1019 22:49:00.605782 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605789 13136 recv_tcp_heartPacket.h:169] 8R_LIST__
+I1019 22:49:00.605798 13136 recv_tcp_heartPacket.h:169] 8tm_clones
+I1019 22:49:00.605804 13136 recv_tcp_heartPacket.h:169] 8l_dtors_aux
+I1019 22:49:00.605811 13136 recv_tcp_heartPacket.h:169] 8d.7585
+I1019 22:49:00.605818 13136 recv_tcp_heartPacket.h:169] 8tors_aux_fini_array_
+I1019 22:49:00.605826 13136 recv_tcp_heartPacket.h:169] 8entry
+I1019 22:49:00.605834 13136 recv_tcp_heartPacket.h:169] 8frame_dummy_init_arr
+I1019 22:49:00.605841 13136 recv_tcp_heartPacket.h:169] 8ay_entry
+I1019 22:49:00.605849 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.605856 13136 recv_tcp_heartPacket.h:169] 8__static_initializat
+I1019 22:49:00.605865 13136 recv_tcp_heartPacket.h:169] 8ion_and_destruction_
+I1019 22:49:00.605871 13136 recv_tcp_heartPacket.h:169] 80ii
+I1019 22:49:00.605880 13136 recv_tcp_heartPacket.h:169] 8ain
+I1019 22:49:00.605886 13136 recv_tcp_heartPacket.h:169] 8JCR_END__
+I1019 22:49:00.605893 13136 recv_tcp_heartPacket.h:169] 8RAME_HDR
+I1019 22:49:00.605901 13136 recv_tcp_heartPacket.h:169] 8SET_TABLE_
+I1019 22:49:00.605907 13136 recv_tcp_heartPacket.h:169] 8ray_end
+I1019 22:49:00.605914 13136 recv_tcp_heartPacket.h:169] 8_start
+I1019 22:49:00.605921 13136 recv_tcp_heartPacket.h:169] 8bc_csu_fini
+I1019 22:49:00.605929 13136 recv_tcp_heartPacket.h:169] 8tart__
+I1019 22:49:00.605937 13136 recv_tcp_heartPacket.h:169] 8lasses
+I1019 22:49:00.605943 13136 recv_tcp_heartPacket.h:169] 8e4InitC1Ev@@GLIBCXX_
+I1019 22:49:00.605952 13136 recv_tcp_heartPacket.h:169] 83.4
+I1019 22:49:00.605958 13136 recv_tcp_heartPacket.h:169] 8.5
+I1019 22:49:00.605965 13136 recv_tcp_heartPacket.h:169] 8@@GLIBC_2.2.5
+I1019 22:49:00.605973 13136 recv_tcp_heartPacket.h:169] 8atexit@@GLIBC_2.2.5
+I1019 22:49:00.605980 13136 recv_tcp_heartPacket.h:169] 8_ZNSt8ios_base4InitD
+I1019 22:49:00.605988 13136 recv_tcp_heartPacket.h:169] 81Ev@@GLIBCXX_3.4
+I1019 22:49:00.605996 13136 recv_tcp_heartPacket.h:169] 8M_deregisterTMCloneT
+I1019 22:49:00.606004 13136 recv_tcp_heartPacket.h:169] 8able
+I1019 22:49:00.606011 13136 recv_tcp_heartPacket.h:169] 8_ITM_registerTMClone
+I1019 22:49:00.606019 13136 recv_tcp_heartPacket.h:169] 8Table
+I1019 22:49:00.606026 13136 recv_tcp_heartPacket.h:169] 8_TMC_END__
+I1019 22:49:00.606034 13136 recv_tcp_heartPacket.h:169] 8dle
+I1019 22:49:00.606040 13136 recv_tcp_heartPacket.h:169] 8__bss_start
+I1019 22:49:00.606047 13136 recv_tcp_heartPacket.h:169] 8.symtab
+I1019 22:49:00.606055 13136 recv_tcp_heartPacket.h:169] 8trtab
+I1019 22:49:00.606061 13136 recv_tcp_heartPacket.h:169] 8ABI-tag
+I1019 22:49:00.606068 13136 recv_tcp_heartPacket.h:169] 8ild-id
+I1019 22:49:00.606076 13136 recv_tcp_heartPacket.h:169] 8nsym
+I1019 22:49:00.606082 13136 recv_tcp_heartPacket.h:169] 8rsion
+I1019 22:49:00.606091 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606097 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606104 13136 recv_tcp_heartPacket.h:169] 8t
+I1019 22:49:00.606112 13136 recv_tcp_heartPacket.h:169] 8frame_hdr
+I1019 22:49:00.606118 13136 recv_tcp_heartPacket.h:169] 8.init_array
+I1019 22:49:00.606125 13136 recv_tcp_heartPacket.h:169] 8ray
+I1019 22:49:00.606132 13136 recv_tcp_heartPacket.h:169] 8ot.plt
+I1019 22:49:00.606145 13136 recv_tcp_heartPacket.h:169] 8omment
+I1019 22:49:00.606153 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606160 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606168 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606174 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606181 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606189 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606195 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606202 13136 recv_tcp_heartPacket.h:169] 8T
+I1019 22:49:00.606209 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606216 13136 recv_tcp_heartPacket.h:169] 81
+I1019 22:49:00.606223 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606230 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606237 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606245 13136 recv_tcp_heartPacket.h:169] 8ò@
+I1019 22:49:00.606252 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606259 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606266 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606273 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606281 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606287 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606294 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606302 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606308 13136 recv_tcp_heartPacket.h:169] 8ˇˇˇo
+I1019 22:49:00.606315 13136 recv_tcp_heartPacket.h:169] 8ê
+I1019 22:49:00.606323 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606329 13136 recv_tcp_heartPacket.h:169] 8k
+I1019 22:49:00.606369 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606382 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606390 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606397 13136 recv_tcp_heartPacket.h:169] 8Ë@
+I1019 22:49:00.606405 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606411 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606420 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606426 13136 recv_tcp_heartPacket.h:169] 8x
+I1019 22:49:00.606433 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606441 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606447 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606454 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606462 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606469 13136 recv_tcp_heartPacket.h:169] 8†
+I1019 22:49:00.606477 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606483 13136 recv_tcp_heartPacket.h:169] 8î
+I1019 22:49:00.606490 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606498 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606504 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606511 13136 recv_tcp_heartPacket.h:169] 8@
+I1019 22:49:00.606519 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606526 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606534 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606541 13136 recv_tcp_heartPacket.h:169] 8	
+I1019 22:49:00.606549 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606555 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606564 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606570 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606577 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606585 13136 recv_tcp_heartPacket.h:169] 8$
+I1019 22:49:00.606602 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606611 13136 recv_tcp_heartPacket.h:169] 8ø
+I1019 22:49:00.606618 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606626 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606632 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606639 13136 recv_tcp_heartPacket.h:169] 8¯`
+I1019 22:49:00.606647 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606654 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606662 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606669 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606678 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606684 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606698 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606705 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606712 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606720 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606727 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606734 13136 recv_tcp_heartPacket.h:169] 8ò
+I1019 22:49:00.606741 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606748 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606755 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606763 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606770 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606777 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606784 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606791 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606798 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606806 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606812 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606819 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606827 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606834 13136 recv_tcp_heartPacket.h:169] 8P
+I1019 22:49:00.606842 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606848 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606855 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606863 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606869 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606878 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606884 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606891 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606899 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.606905 13136 recv_tcp_heartPacket.h:169] 8À
+I1019 22:49:00.606915 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.608805 13136 recv_tcp_heartPacket.h:169] 87E257E257E25
+I1019 22:49:00.609973 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.610095 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.610239 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.610321 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.610427 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:00.610469 13136 recv_tcp_heartPacket.h:169] 8
+I1019 22:49:02.014987 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:04.015997 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:06.016316 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:08.016649 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:10.017189 13136 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 22:49:12.017599 13136 recv_tcp_heartPacket.h:169] 87E45007E

@@ -1,0 +1,170 @@
+Log file created at: 2016/10/19 20:05:18
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1019 20:05:18.147934  7457 server.cpp:155] Recv_TCP_Packet_Thread_Func
+I1019 20:05:23.152869  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:25.154793  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:27.154680  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:29.155869  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:29.951617  7457 recv_tcp_heartPacket.h:169] 8total 11164
+-rwxrwxr
+I1019 20:05:29.951694  7457 recv_tcp_heartPacket.h:169] 8-x 1 zlc zlc    7046
+I1019 20:05:29.951707  7457 recv_tcp_heartPacket.h:169] 84 Oct 19 19:54 clien
+I1019 20:05:29.951712  7457 recv_tcp_heartPacket.h:169] 8t
+-rw-rw-r-- 1 zlc z
+I1019 20:05:29.951719  7457 recv_tcp_heartPacket.h:169] 8lc     3162 Oct 18 2
+I1019 20:05:29.951723  7457 recv_tcp_heartPacket.h:169] 80:05 client.cpp
+-rw-
+I1019 20:05:29.951728  7457 recv_tcp_heartPacket.h:169] 8------ 1 zlc zlc 111
+I1019 20:05:29.951733  7457 recv_tcp_heartPacket.h:169] 812448 Oct 18 02:40 c
+I1019 20:05:29.951738  7457 recv_tcp_heartPacket.h:169] 8ore
+-rw-rw-r-- 1 zlc
+I1019 20:05:29.951743  7457 recv_tcp_heartPacket.h:169] 8 zlc      179 Oct 18
+I1019 20:05:29.951748  7457 recv_tcp_heartPacket.h:169] 8 06:54 makefile
+-rw-
+I1019 20:05:29.951755  7457 recv_tcp_heartPacket.h:169] 8rw-r-- 1 zlc zlc    
+I1019 20:05:29.951759  7457 recv_tcp_heartPacket.h:169] 8 4794 Oct 19 19:53 r
+I1019 20:05:29.951764  7457 recv_tcp_heartPacket.h:169] 8ecv_TCP_cmd.h
+-rw-rw
+I1019 20:05:29.951769  7457 recv_tcp_heartPacket.h:169] 8-r-- 1 zlc zlc     2
+I1019 20:05:29.951774  7457 recv_tcp_heartPacket.h:169] 8459 Oct 19 02:34 rec
+I1019 20:05:29.951779  7457 recv_tcp_heartPacket.h:169] 8v_UDPHeart.h
+-rw-rw-
+I1019 20:05:29.951784  7457 recv_tcp_heartPacket.h:169] 8r-- 1 zlc zlc     21
+I1019 20:05:29.951789  7457 recv_tcp_heartPacket.h:169] 849 Oct 18 23:28 send
+I1019 20:05:29.951795  7457 recv_tcp_heartPacket.h:169] 8_TCP_heart_packet.h
+
+I1019 20:05:29.951800  7457 recv_tcp_heartPacket.h:169] 8-rw-rw-r-- 1 zlc zlc
+I1019 20:05:29.951805  7457 recv_tcp_heartPacket.h:169] 8     3127 Oct 19 00:
+I1019 20:05:29.951810  7457 recv_tcp_heartPacket.h:169] 837 temp
+-rw-rw-r-- 1
+I1019 20:05:29.951817  7457 recv_tcp_heartPacket.h:169] 8 zlc zlc   214984 Oc
+I1019 20:05:29.951823  7457 recv_tcp_heartPacket.h:169] 8t 19 20:02 test
+4 Oc
+I1019 20:05:31.157034  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:32.273666  7457 recv_tcp_heartPacket.h:169] 8   PID TTY          
+I1019 20:05:32.273699  7457 recv_tcp_heartPacket.h:169] 8TIME CMD
+  2255 pts/
+I1019 20:05:32.273705  7457 recv_tcp_heartPacket.h:169] 86    00:00:00 zsh
+  
+I1019 20:05:32.273708  7457 recv_tcp_heartPacket.h:169] 82490 pts/6    00:00:
+I1019 20:05:32.273736  7457 recv_tcp_heartPacket.h:169] 800 bash
+  7459 pts/6
+I1019 20:05:32.273741  7457 recv_tcp_heartPacket.h:169] 8    00:00:01 client
+
+I1019 20:05:32.273746  7457 recv_tcp_heartPacket.h:169] 8  7465 pts/6    00:0
+I1019 20:05:32.273751  7457 recv_tcp_heartPacket.h:169] 80:00 ps
+ts/6    00:0
+I1019 20:05:33.158016  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:35.158212  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:37.158588  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:39.159209  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:41.159970  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:43.160867  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:45.161219  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:47.162525  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:49.163627  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:51.164042  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:53.164212  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:55.164433  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:57.165453  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:05:59.167395  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:01.166628  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:03.167986  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:05.169262  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:07.170413  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:09.171577  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:11.172641  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:13.173810  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:15.174935  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:17.176033  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:19.176158  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:21.176723  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:28.163377  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:30.164517  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:32.164849  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:34.165668  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:35.626145  7457 recv_tcp_heartPacket.h:169] 8
+E45007E
+I1019 20:06:36.166164  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:38.167281  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:40.168449  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:42.169613  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:44.170490  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:46.171640  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:48.171942  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:50.172054  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:52.172214  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:54.172719  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:56.173462  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:06:58.175354  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:13.173245  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:15.174306  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:17.175359  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:19.176401  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:19.461796  7457 recv_tcp_heartPacket.h:169] 8total 11136
+-rwxrwxr
+I1019 20:07:19.461853  7457 recv_tcp_heartPacket.h:169] 8-x 1 zlc zlc    7044
+I1019 20:07:19.461866  7457 recv_tcp_heartPacket.h:169] 88 Oct 19 20:07 clien
+I1019 20:07:19.461879  7457 recv_tcp_heartPacket.h:169] 8t
+-rw-rw-r-- 1 zlc z
+I1019 20:07:19.461889  7457 recv_tcp_heartPacket.h:169] 8lc     3162 Oct 18 2
+I1019 20:07:19.461899  7457 recv_tcp_heartPacket.h:169] 80:05 client.cpp
+-rw-
+I1019 20:07:19.461910  7457 recv_tcp_heartPacket.h:169] 8------ 1 zlc zlc 111
+I1019 20:07:19.461920  7457 recv_tcp_heartPacket.h:169] 812448 Oct 18 02:40 c
+I1019 20:07:19.461930  7457 recv_tcp_heartPacket.h:169] 8ore
+-rw-rw-r-- 1 zlc
+I1019 20:07:19.461940  7457 recv_tcp_heartPacket.h:169] 8 zlc      179 Oct 18
+I1019 20:07:19.461951  7457 recv_tcp_heartPacket.h:169] 8 06:54 makefile
+-rw-
+I1019 20:07:19.461961  7457 recv_tcp_heartPacket.h:169] 8rw-r-- 1 zlc zlc    
+I1019 20:07:19.461971  7457 recv_tcp_heartPacket.h:169] 8 4894 Oct 19 20:06 r
+I1019 20:07:19.462015  7457 recv_tcp_heartPacket.h:169] 8ecv_TCP_cmd.h
+-rw-rw
+I1019 20:07:19.462026  7457 recv_tcp_heartPacket.h:169] 8-r-- 1 zlc zlc     2
+I1019 20:07:19.462038  7457 recv_tcp_heartPacket.h:169] 8459 Oct 19 02:34 rec
+I1019 20:07:19.462047  7457 recv_tcp_heartPacket.h:169] 8v_UDPHeart.h
+-rw-rw-
+I1019 20:07:19.462057  7457 recv_tcp_heartPacket.h:169] 8r-- 1 zlc zlc     21
+I1019 20:07:19.462067  7457 recv_tcp_heartPacket.h:169] 849 Oct 18 23:28 send
+I1019 20:07:19.462077  7457 recv_tcp_heartPacket.h:169] 8_TCP_heart_packet.h
+
+I1019 20:07:19.462087  7457 recv_tcp_heartPacket.h:169] 8-rw-rw-r-- 1 zlc zlc
+I1019 20:07:19.462097  7457 recv_tcp_heartPacket.h:169] 8     3127 Oct 19 00:
+I1019 20:07:19.462108  7457 recv_tcp_heartPacket.h:169] 837 temp
+-rw-rw-r-- 1
+I1019 20:07:19.462118  7457 recv_tcp_heartPacket.h:169] 8 zlc zlc   188343 Oc
+I1019 20:07:19.462131  7457 recv_tcp_heartPacket.h:169] 8t 19 20:05 test
+3 Oc
+I1019 20:07:21.177496  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:23.178228  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:25.179616  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:27.180656  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:29.181392  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:31.182616  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:33.183526  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:35.183687  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:37.184175  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:39.184139  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:41.185235  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:43.185771  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:45.186213  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:47.187233  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:49.188302  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:51.189373  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:53.190430  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:55.191779  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:57.192603  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:07:59.193598  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:01.194712  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:03.195685  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:05.196902  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:07.197847  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:09.199039  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:11.199780  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:13.200064  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:15.200904  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:17.201117  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:19.201429  7457 recv_tcp_heartPacket.h:169] 87E45007E
+I1019 20:08:21.202471  7457 recv_tcp_heartPacket.h:169] 87E45007E

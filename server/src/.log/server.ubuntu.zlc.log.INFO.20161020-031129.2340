@@ -1,0 +1,8 @@
+Log file created at: 2016/10/20 03:11:29
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1020 03:11:29.993108  2342 server.cpp:155] Recv_TCP_Packet_Thread_Func
+I1020 03:11:39.998764  2342 recv_tcp_heartPacket.h:169] 87E45007E
+I1020 03:11:49.999244  2342 recv_tcp_heartPacket.h:169] 87E45007E
+I1020 03:11:59.999919  2342 recv_tcp_heartPacket.h:169] 87E45007E
+I1020 03:12:10.000118  2342 recv_tcp_heartPacket.h:169] 87E45007E

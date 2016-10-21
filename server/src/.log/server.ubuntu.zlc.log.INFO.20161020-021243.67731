@@ -1,0 +1,464 @@
+Log file created at: 2016/10/20 02:12:43
+Running on machine: ubuntu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1020 02:12:43.956652 67733 server.cpp:155] Recv_TCP_Packet_Thread_Func
+I1020 02:12:48.961802 67733 recv_tcp_heartPacket.h:169] 87E45007E
+I1020 02:12:58.962687 67733 recv_tcp_heartPacket.h:169] 87E45007E
+I1020 02:13:08.963469 67733 recv_tcp_heartPacket.h:169] 87E45007E
+I1020 02:13:17.315953 67733 recv_tcp_heartPacket.h:169] 8total 100
+drwxr-xr-x
+I1020 02:13:17.316009 67733 recv_tcp_heartPacket.h:169] 8   2 root root  4096
+I1020 02:13:17.316018 67733 recv_tcp_heartPacket.h:169] 8 Oct 18 19:01 bin
+dr
+I1020 02:13:17.316025 67733 recv_tcp_heartPacket.h:169] 8wxr-xr-x   3 root ro
+I1020 02:13:17.316030 67733 recv_tcp_heartPacket.h:169] 8ot  4096 Oct 18 19:0
+I1020 02:13:17.316036 67733 recv_tcp_heartPacket.h:169] 85 boot
+drwxrwxr-x   
+I1020 02:13:17.316042 67733 recv_tcp_heartPacket.h:169] 82 root root  4096 Oc
+I1020 02:13:17.316048 67733 recv_tcp_heartPacket.h:169] 8t 17 06:18 cdrom
+drw
+I1020 02:13:17.316056 67733 recv_tcp_heartPacket.h:169] 8xr-xr-x  19 root roo
+I1020 02:13:17.316061 67733 recv_tcp_heartPacket.h:169] 8t  4380 Oct 20 01:58
+I1020 02:13:17.316067 67733 recv_tcp_heartPacket.h:169] 8 dev
+drwxr-xr-x 139 
+I1020 02:13:17.316072 67733 recv_tcp_heartPacket.h:169] 8root root 12288 Oct 
+I1020 02:13:17.316078 67733 recv_tcp_heartPacket.h:169] 819 22:35 etc
+drwxr-x
+I1020 02:13:17.316084 67733 recv_tcp_heartPacket.h:169] 8r-x   3 root root  4
+I1020 02:13:17.316092 67733 recv_tcp_heartPacket.h:169] 8096 Oct 17 06:42 hom
+I1020 02:13:17.316097 67733 recv_tcp_heartPacket.h:169] 8e
+lrwxrwxrwx   1 roo
+I1020 02:13:17.316102 67733 recv_tcp_heartPacket.h:169] 8t root    32 Oct 18 
+I1020 02:13:17.316108 67733 recv_tcp_heartPacket.h:169] 819:04 initrd.img -> 
+I1020 02:13:17.316114 67733 recv_tcp_heartPacket.h:169] 8boot/initrd.img-4.4.
+I1020 02:13:17.316119 67733 recv_tcp_heartPacket.h:169] 80-42-generic
+lrwxrwx
+I1020 02:13:17.316125 67733 recv_tcp_heartPacket.h:169] 8rwx   1 root root   
+I1020 02:13:17.316131 67733 recv_tcp_heartPacket.h:169] 8 32 Oct 17 06:42 ini
+I1020 02:13:17.316138 67733 recv_tcp_heartPacket.h:169] 8trd.img.old -> boot/
+I1020 02:13:17.316143 67733 recv_tcp_heartPacket.h:169] 8initrd.img-4.4.0-21-
+I1020 02:13:17.316148 67733 recv_tcp_heartPacket.h:169] 8generic
+drwxr-xr-x  
+I1020 02:13:17.316154 67733 recv_tcp_heartPacket.h:169] 822 root root  4096 O
+I1020 02:13:17.316159 67733 recv_tcp_heartPacket.h:169] 8ct 17 06:43 lib
+drwx
+I1020 02:13:17.316165 67733 recv_tcp_heartPacket.h:169] 8r-xr-x   2 root root
+I1020 02:13:17.316171 67733 recv_tcp_heartPacket.h:169] 8  4096 Apr 20 15:07 
+I1020 02:13:17.316177 67733 recv_tcp_heartPacket.h:169] 8lib64
+drwx------   2
+I1020 02:13:17.316182 67733 recv_tcp_heartPacket.h:169] 8 root root 16384 Oct
+I1020 02:13:17.316190 67733 recv_tcp_heartPacket.h:169] 8 17 14:15 lost+found
+I1020 02:13:17.316195 67733 recv_tcp_heartPacket.h:169] 8
+drwxr-xr-x   4 root
+I1020 02:13:17.316200 67733 recv_tcp_heartPacket.h:169] 8 root  4096 Oct 17 0
+I1020 02:13:17.316205 67733 recv_tcp_heartPacket.h:169] 86:49 media
+drwxr-xr-
+I1020 02:13:17.316211 67733 recv_tcp_heartPacket.h:169] 8x   3 root root  409
+I1020 02:13:17.316216 67733 recv_tcp_heartPacket.h:169] 86 Oct 17 09:24 mnt
+d
+I1020 02:13:17.316222 67733 recv_tcp_heartPacket.h:169] 8rwxr-xr-x   3 root r
+I1020 02:13:17.316227 67733 recv_tcp_heartPacket.h:169] 8oot  4096 Oct 17 06:
+I1020 02:13:17.316233 67733 recv_tcp_heartPacket.h:169] 843 opt
+dr-xr-xr-x 27
+I1020 02:13:17.316238 67733 recv_tcp_heartPacket.h:169] 80 root root     0 Oc
+I1020 02:13:17.316244 67733 recv_tcp_heartPacket.h:169] 8t 19 22:35 proc
+drwx
+I1020 02:13:17.316249 67733 recv_tcp_heartPacket.h:169] 8------   6 root root
+I1020 02:13:17.316256 67733 recv_tcp_heartPacket.h:169] 8  4096 Oct 18 23:20 
+I1020 02:13:17.316260 67733 recv_tcp_heartPacket.h:169] 8root
+drwxr-xr-x  24 
+I1020 02:13:17.316265 67733 recv_tcp_heartPacket.h:169] 8root root   780 Oct 
+I1020 02:13:17.316272 67733 recv_tcp_heartPacket.h:169] 820 02:10 run
+drwxr-x
+I1020 02:13:17.316277 67733 recv_tcp_heartPacket.h:169] 8r-x   2 root root 12
+I1020 02:13:17.316282 67733 recv_tcp_heartPacket.h:169] 8288 Oct 18 19:02 sbi
+I1020 02:13:17.316287 67733 recv_tcp_heartPacket.h:169] 8n
+drwxr-xr-x   2 roo
+I1020 02:13:17.316293 67733 recv_tcp_heartPacket.h:169] 8t root  4096 Apr 19 
+I1020 02:13:17.316298 67733 recv_tcp_heartPacket.h:169] 8 2016 snap
+drwxr-xr-
+I1020 02:13:17.316303 67733 recv_tcp_heartPacket.h:169] 8x   2 root root  409
+I1020 02:13:17.316323 67733 recv_tcp_heartPacket.h:169] 86 Apr 20 15:07 srv
+d
+I1020 02:13:17.316329 67733 recv_tcp_heartPacket.h:169] 8r-xr-xr-x  13 root r
+I1020 02:13:17.316335 67733 recv_tcp_heartPacket.h:169] 8oot     0 Oct 19 22:
+I1020 02:13:17.316340 67733 recv_tcp_heartPacket.h:169] 835 sys
+drwxrwxrwt  1
+I1020 02:13:17.316345 67733 recv_tcp_heartPacket.h:169] 84 root root  4096 Oc
+I1020 02:13:17.316351 67733 recv_tcp_heartPacket.h:169] 8t 20 02:12 tmp
+drwxr
+I1020 02:13:17.316356 67733 recv_tcp_heartPacket.h:169] 8-xr-x  11 root root 
+I1020 02:13:17.316361 67733 recv_tcp_heartPacket.h:169] 8 4096 Apr 20 15:13 u
+I1020 02:13:17.316367 67733 recv_tcp_heartPacket.h:169] 8sr
+drwxr-xr-x  14 ro
+I1020 02:13:17.316372 67733 recv_tcp_heartPacket.h:169] 8ot root  4096 Apr 20
+I1020 02:13:17.316377 67733 recv_tcp_heartPacket.h:169] 8 15:19 var
+lrwxrwxrw
+I1020 02:13:17.316383 67733 recv_tcp_heartPacket.h:169] 8x   1 root root    2
+I1020 02:13:17.316388 67733 recv_tcp_heartPacket.h:169] 89 Oct 18 19:04 vmlin
+I1020 02:13:17.316393 67733 recv_tcp_heartPacket.h:169] 8uz -> boot/vmlinuz-4
+I1020 02:13:17.316398 67733 recv_tcp_heartPacket.h:169] 8.4.0-42-generic
+lrwx
+I1020 02:13:17.316404 67733 recv_tcp_heartPacket.h:169] 8rwxrwx   1 root root
+I1020 02:13:17.316409 67733 recv_tcp_heartPacket.h:169] 8    29 Oct 17 06:42 
+I1020 02:13:17.316414 67733 recv_tcp_heartPacket.h:169] 8vmlinuz.old -> boot/
+I1020 02:13:17.316421 67733 recv_tcp_heartPacket.h:169] 8vmlinuz-4.4.0-21-gen
+I1020 02:13:17.316426 67733 recv_tcp_heartPacket.h:169] 8eric
+uz-4.4.0-21-gen
+I1020 02:13:18.964668 67733 recv_tcp_heartPacket.h:169] 87E45007E4.4.0-21-gen
+I1020 02:13:25.748584 67733 recv_tcp_heartPacket.h:169] 8   PID TTY          
+I1020 02:13:25.748644 67733 recv_tcp_heartPacket.h:169] 8TIME CMD
+  1497 ?   
+I1020 02:13:25.748658 67733 recv_tcp_heartPacket.h:169] 8     00:00:00 system
+I1020 02:13:25.748669 67733 recv_tcp_heartPacket.h:169] 8d
+  1499 ?        00
+I1020 02:13:25.748680 67733 recv_tcp_heartPacket.h:169] 8:00:00 (sd-pam)
+  15
+I1020 02:13:25.748692 67733 recv_tcp_heartPacket.h:169] 831 ?        00:00:00
+I1020 02:13:25.748702 67733 recv_tcp_heartPacket.h:169] 8 gnome-keyring-d
+  1
+I1020 02:13:25.748713 67733 recv_tcp_heartPacket.h:169] 8547 ?        00:00:1
+I1020 02:13:25.748723 67733 recv_tcp_heartPacket.h:169] 80 upstart
+  1639 ?  
+I1020 02:13:25.748733 67733 recv_tcp_heartPacket.h:169] 8      00:00:00 upsta
+I1020 02:13:25.748744 67733 recv_tcp_heartPacket.h:169] 8rt-udev-br
+  1643 ? 
+I1020 02:13:25.748754 67733 recv_tcp_heartPacket.h:169] 8       00:00:04 dbus
+I1020 02:13:25.748764 67733 recv_tcp_heartPacket.h:169] 8-daemon
+  1655 ?    
+I1020 02:13:25.748775 67733 recv_tcp_heartPacket.h:169] 8    00:00:00 window-
+I1020 02:13:25.748785 67733 recv_tcp_heartPacket.h:169] 8stack-br
+  1703 ?   
+I1020 02:13:25.748795 67733 recv_tcp_heartPacket.h:169] 8     00:00:06 bamfda
+I1020 02:13:25.748806 67733 recv_tcp_heartPacket.h:169] 8emon
+  1704 ?       
+I1020 02:13:25.748817 67733 recv_tcp_heartPacket.h:169] 8 00:00:00 gpg-agent
+
+I1020 02:13:25.748827 67733 recv_tcp_heartPacket.h:169] 8  1711 ?        00:0
+I1020 02:13:25.748837 67733 recv_tcp_heartPacket.h:169] 80:45 ibus-daemon
+  1
+I1020 02:13:25.748848 67733 recv_tcp_heartPacket.h:169] 8717 ?        00:00:0
+I1020 02:13:25.748859 67733 recv_tcp_heartPacket.h:169] 81 upstart-dbus-br
+  
+I1020 02:13:25.748869 67733 recv_tcp_heartPacket.h:169] 81720 ?        00:00:
+I1020 02:13:25.748879 67733 recv_tcp_heartPacket.h:169] 800 upstart-dbus-br
+ 
+I1020 02:13:25.748890 67733 recv_tcp_heartPacket.h:169] 8 1722 ?        00:00
+I1020 02:13:25.748900 67733 recv_tcp_heartPacket.h:169] 8:00 upstart-file-br
+
+I1020 02:13:25.748910 67733 recv_tcp_heartPacket.h:169] 8  1727 ?        00:0
+I1020 02:13:25.748921 67733 recv_tcp_heartPacket.h:169] 80:00 gvfsd
+  1735 ? 
+I1020 02:13:25.748931 67733 recv_tcp_heartPacket.h:169] 8       00:00:00 gvfs
+I1020 02:13:25.748941 67733 recv_tcp_heartPacket.h:169] 8d-fuse
+  1737 ?     
+I1020 02:13:25.748952 67733 recv_tcp_heartPacket.h:169] 8   00:00:00 ibus-dco
+I1020 02:13:25.749124 67733 recv_tcp_heartPacket.h:169] 8nf
+  1739 ?        0
+I1020 02:13:25.749140 67733 recv_tcp_heartPacket.h:169] 80:00:09 ibus-ui-gtk3
+I1020 02:13:25.749150 67733 recv_tcp_heartPacket.h:169] 8
+  1742 ?        00:
+I1020 02:13:25.749161 67733 recv_tcp_heartPacket.h:169] 800:00 at-spi-bus-lau
+I1020 02:13:25.749171 67733 recv_tcp_heartPacket.h:169] 8n
+  1745 ?        00
+I1020 02:13:25.749181 67733 recv_tcp_heartPacket.h:169] 8:00:04 ibus-x11
+  17
+I1020 02:13:25.749191 67733 recv_tcp_heartPacket.h:169] 854 ?        00:00:00
+I1020 02:13:25.749202 67733 recv_tcp_heartPacket.h:169] 8 dbus-daemon
+  1760 
+I1020 02:13:25.749212 67733 recv_tcp_heartPacket.h:169] 8?        00:00:01 at
+I1020 02:13:25.749222 67733 recv_tcp_heartPacket.h:169] 8-spi2-registr
+  1780
+I1020 02:13:25.749233 67733 recv_tcp_heartPacket.h:169] 8 ?        00:00:10 i
+I1020 02:13:25.749243 67733 recv_tcp_heartPacket.h:169] 8bus-engine-sim
+  179
+I1020 02:13:25.749253 67733 recv_tcp_heartPacket.h:169] 82 ?        00:00:25 
+I1020 02:13:25.749263 67733 recv_tcp_heartPacket.h:169] 8hud-service
+  1794 ?
+I1020 02:13:25.749272 67733 recv_tcp_heartPacket.h:169] 8        00:00:02 uni
+I1020 02:13:25.749282 67733 recv_tcp_heartPacket.h:169] 8ty-settings-
+  1798 
+I1020 02:13:25.749294 67733 recv_tcp_heartPacket.h:169] 8?        00:04:22 co
+I1020 02:13:25.749303 67733 recv_tcp_heartPacket.h:169] 8mpiz
+  1807 ?       
+I1020 02:13:25.749313 67733 recv_tcp_heartPacket.h:169] 8 00:00:00 gnome-sess
+I1020 02:13:25.749323 67733 recv_tcp_heartPacket.h:169] 8ion-b
+  1812 ?      
+I1020 02:13:25.749333 67733 recv_tcp_heartPacket.h:169] 8  00:00:14 unity-pan
+I1020 02:13:25.749343 67733 recv_tcp_heartPacket.h:169] 8el-ser
+  1824 ?     
+I1020 02:13:25.749354 67733 recv_tcp_heartPacket.h:169] 8   00:00:00 dconf-se
+I1020 02:13:25.749364 67733 recv_tcp_heartPacket.h:169] 8rvice
+  1848 ?      
+I1020 02:13:25.749374 67733 recv_tcp_heartPacket.h:169] 8  00:00:00 indicator
+I1020 02:13:25.749421 67733 recv_tcp_heartPacket.h:169] 8-messa
+  1852 ?     
+I1020 02:13:25.749433 67733 recv_tcp_heartPacket.h:169] 8   00:00:00 indicato
+I1020 02:13:25.749444 67733 recv_tcp_heartPacket.h:169] 8r-bluet
+  1855 ?    
+I1020 02:13:25.749454 67733 recv_tcp_heartPacket.h:169] 8    00:00:00 indicat
+I1020 02:13:25.749464 67733 recv_tcp_heartPacket.h:169] 8or-power
+  1857 ?   
+I1020 02:13:25.749474 67733 recv_tcp_heartPacket.h:169] 8     00:00:00 indica
+I1020 02:13:25.749483 67733 recv_tcp_heartPacket.h:169] 8tor-datet
+  1860 ?  
+I1020 02:13:25.749493 67733 recv_tcp_heartPacket.h:169] 8      00:00:00 indic
+I1020 02:13:25.749503 67733 recv_tcp_heartPacket.h:169] 8ator-keybo
+  1861 ? 
+I1020 02:13:25.749514 67733 recv_tcp_heartPacket.h:169] 8       00:00:00 indi
+I1020 02:13:25.749524 67733 recv_tcp_heartPacket.h:169] 8cator-sound
+  1868 ?
+I1020 02:13:25.749534 67733 recv_tcp_heartPacket.h:169] 8        00:00:00 ind
+I1020 02:13:25.749544 67733 recv_tcp_heartPacket.h:169] 8icator-print
+  1870 
+I1020 02:13:25.749554 67733 recv_tcp_heartPacket.h:169] 8?        00:00:00 in
+I1020 02:13:25.749564 67733 recv_tcp_heartPacket.h:169] 8dicator-sessi
+  1877
+I1020 02:13:25.749575 67733 recv_tcp_heartPacket.h:169] 8 ?        00:00:00 i
+I1020 02:13:25.749586 67733 recv_tcp_heartPacket.h:169] 8ndicator-appli
+  190
+I1020 02:13:25.749596 67733 recv_tcp_heartPacket.h:169] 84 ?        00:00:00 
+I1020 02:13:25.749606 67733 recv_tcp_heartPacket.h:169] 8evolution-sourc
+  19
+I1020 02:13:25.749616 67733 recv_tcp_heartPacket.h:169] 807 ?        00:00:00
+I1020 02:13:25.749627 67733 recv_tcp_heartPacket.h:169] 8 pulseaudio
+  1945 ?
+I1020 02:13:25.749637 67733 recv_tcp_heartPacket.h:169] 8        00:00:00 evo
+I1020 02:13:25.749647 67733 recv_tcp_heartPacket.h:169] 8lution-calen
+  1950 
+I1020 02:13:25.749657 67733 recv_tcp_heartPacket.h:169] 8?        00:00:01 nm
+I1020 02:13:25.749667 67733 recv_tcp_heartPacket.h:169] 8-applet
+  1951 ?    
+I1020 02:13:25.749677 67733 recv_tcp_heartPacket.h:169] 8    00:00:24 nautilu
+I1020 02:13:25.749687 67733 recv_tcp_heartPacket.h:169] 8s
+  1954 ?        00
+I1020 02:13:25.749718 67733 recv_tcp_heartPacket.h:169] 8:00:00 polkit-gnome-
+I1020 02:13:25.749728 67733 recv_tcp_heartPacket.h:169] 8au
+  1955 ?        0
+I1020 02:13:25.749739 67733 recv_tcp_heartPacket.h:169] 80:00:03 gnome-softwa
+I1020 02:13:25.749749 67733 recv_tcp_heartPacket.h:169] 8re
+  1956 ?        0
+I1020 02:13:25.749759 67733 recv_tcp_heartPacket.h:169] 80:00:00 unity-fallba
+I1020 02:13:25.749769 67733 recv_tcp_heartPacket.h:169] 8ck-
+  1959 ?        
+I1020 02:13:25.749780 67733 recv_tcp_heartPacket.h:169] 800:00:16 vmtoolsd
+  
+I1020 02:13:25.749791 67733 recv_tcp_heartPacket.h:169] 81968 ?        00:00:
+I1020 02:13:25.749800 67733 recv_tcp_heartPacket.h:169] 800 gvfs-udisks2-vo
+ 
+I1020 02:13:25.749816 67733 recv_tcp_heartPacket.h:169] 8 1992 ?        00:00
+I1020 02:13:25.749832 67733 recv_tcp_heartPacket.h:169] 8:00 gvfs-afc-volume
+
+I1020 02:13:25.749850 67733 recv_tcp_heartPacket.h:169] 8  2000 ?        00:0
+I1020 02:13:25.749861 67733 recv_tcp_heartPacket.h:169] 80:00 evolution-calen
+I1020 02:13:25.749871 67733 recv_tcp_heartPacket.h:169] 8
+  2006 ?        00:
+I1020 02:13:25.749882 67733 recv_tcp_heartPacket.h:169] 800:00 gvfs-gphoto2-v
+I1020 02:13:25.749892 67733 recv_tcp_heartPacket.h:169] 8o
+  2012 ?        00
+I1020 02:13:25.749902 67733 recv_tcp_heartPacket.h:169] 8:00:00 gvfs-goa-volu
+I1020 02:13:25.749912 67733 recv_tcp_heartPacket.h:169] 8me
+  2017 ?        0
+I1020 02:13:25.749922 67733 recv_tcp_heartPacket.h:169] 80:00:00 gvfs-mtp-vol
+I1020 02:13:25.749933 67733 recv_tcp_heartPacket.h:169] 8ume
+  2028 ?        
+I1020 02:13:25.749943 67733 recv_tcp_heartPacket.h:169] 800:00:00 gvfsd-trash
+I1020 02:13:25.749953 67733 recv_tcp_heartPacket.h:169] 8
+  2033 ?        00:
+I1020 02:13:25.749963 67733 recv_tcp_heartPacket.h:169] 800:00 evolution-cale
+I1020 02:13:25.749974 67733 recv_tcp_heartPacket.h:169] 8n
+  2040 ?        00
+I1020 02:13:25.749984 67733 recv_tcp_heartPacket.h:169] 8:00:00 evolution-add
+I1020 02:13:25.749994 67733 recv_tcp_heartPacket.h:169] 8re
+  2063 ?        0
+I1020 02:13:25.750003 67733 recv_tcp_heartPacket.h:169] 80:00:00 evolution-ad
+I1020 02:13:25.750013 67733 recv_tcp_heartPacket.h:169] 8dre
+  2078 ?        
+I1020 02:13:25.750025 67733 recv_tcp_heartPacket.h:169] 800:00:00 gconfd-2
+  
+I1020 02:13:25.750035 67733 recv_tcp_heartPacket.h:169] 82168 ?        00:00:
+I1020 02:13:25.750044 67733 recv_tcp_heartPacket.h:169] 800 sh
+  2172 ?      
+I1020 02:13:25.750056 67733 recv_tcp_heartPacket.h:169] 8  00:00:00 zeitgeist
+I1020 02:13:25.750066 67733 recv_tcp_heartPacket.h:169] 8-daemo
+  2180 ?     
+I1020 02:13:25.750075 67733 recv_tcp_heartPacket.h:169] 8   00:00:00 zeitgeis
+I1020 02:13:25.750085 67733 recv_tcp_heartPacket.h:169] 8t-datah
+  2181 ?    
+I1020 02:13:25.750097 67733 recv_tcp_heartPacket.h:169] 8    00:00:00 zeitgei
+I1020 02:13:25.750107 67733 recv_tcp_heartPacket.h:169] 8st-fts
+  2203 ?     
+I1020 02:13:25.750116 67733 recv_tcp_heartPacket.h:169] 8   00:23:18 java
+  2
+I1020 02:13:25.750126 67733 recv_tcp_heartPacket.h:169] 8307 ?        00:00:0
+I1020 02:13:25.750136 67733 recv_tcp_heartPacket.h:169] 81 update-notifier
+  
+I1020 02:13:25.750147 67733 recv_tcp_heartPacket.h:169] 82373 ?        00:00:
+I1020 02:13:25.750157 67733 recv_tcp_heartPacket.h:169] 800 deja-dup-monito
+ 
+I1020 02:13:25.750167 67733 recv_tcp_heartPacket.h:169] 8 9016 ?        00:00
+I1020 02:13:25.750177 67733 recv_tcp_heartPacket.h:169] 8:01 notify-osd
+  976
+I1020 02:13:25.750187 67733 recv_tcp_heartPacket.h:169] 86 ?        00:00:00 
+I1020 02:13:25.750197 67733 recv_tcp_heartPacket.h:169] 8gvfsd-metadata
+ 1315
+I1020 02:13:25.750208 67733 recv_tcp_heartPacket.h:169] 84 ?        00:00:00 
+I1020 02:13:25.750218 67733 recv_tcp_heartPacket.h:169] 8gvfsd-network
+ 13185
+I1020 02:13:25.750228 67733 recv_tcp_heartPacket.h:169] 8 ?        00:00:00 g
+I1020 02:13:25.750238 67733 recv_tcp_heartPacket.h:169] 8vfsd-dnssd
+ 67473 ? 
+I1020 02:13:25.750249 67733 recv_tcp_heartPacket.h:169] 8       00:00:03 gnom
+I1020 02:13:25.750259 67733 recv_tcp_heartPacket.h:169] 8e-terminal-
+ 67736 ?
+I1020 02:13:25.750295 67733 recv_tcp_heartPacket.h:169] 8        00:00:01 cli
+I1020 02:13:25.750306 67733 recv_tcp_heartPacket.h:169] 8ent
+ 67746 ?        
+I1020 02:13:25.750320 67733 recv_tcp_heartPacket.h:169] 800:00:00 ps
+        
+I1020 02:13:28.965080 67733 recv_tcp_heartPacket.h:169] 87E45007E ps
+        
+I1020 02:13:38.965909 67733 recv_tcp_heartPacket.h:169] 87E45007E ps
+        
+I1020 02:13:40.805389 67733 recv_tcp_heartPacket.h:169] 8total 100
+drwxr-xr-x
+I1020 02:13:40.805471 67733 recv_tcp_heartPacket.h:169] 8   2 root root  4096
+I1020 02:13:40.805491 67733 recv_tcp_heartPacket.h:169] 8 Oct 18 19:01 bin
+dr
+I1020 02:13:40.805508 67733 recv_tcp_heartPacket.h:169] 8wxr-xr-x   3 root ro
+I1020 02:13:40.805523 67733 recv_tcp_heartPacket.h:169] 8ot  4096 Oct 18 19:0
+I1020 02:13:40.805539 67733 recv_tcp_heartPacket.h:169] 85 boot
+drwxrwxr-x   
+I1020 02:13:40.805554 67733 recv_tcp_heartPacket.h:169] 82 root root  4096 Oc
+I1020 02:13:40.805661 67733 recv_tcp_heartPacket.h:169] 8t 17 06:18 cdrom
+drw
+I1020 02:13:40.805702 67733 recv_tcp_heartPacket.h:169] 8xr-xr-x  19 root roo
+I1020 02:13:40.805719 67733 recv_tcp_heartPacket.h:169] 8t  4380 Oct 20 01:58
+I1020 02:13:40.805734 67733 recv_tcp_heartPacket.h:169] 8 dev
+drwxr-xr-x 139 
+I1020 02:13:40.805750 67733 recv_tcp_heartPacket.h:169] 8root root 12288 Oct 
+I1020 02:13:40.805765 67733 recv_tcp_heartPacket.h:169] 819 22:35 etc
+drwxr-x
+I1020 02:13:40.805781 67733 recv_tcp_heartPacket.h:169] 8r-x   3 root root  4
+I1020 02:13:40.805796 67733 recv_tcp_heartPacket.h:169] 8096 Oct 17 06:42 hom
+I1020 02:13:40.805812 67733 recv_tcp_heartPacket.h:169] 8e
+lrwxrwxrwx   1 roo
+I1020 02:13:40.805829 67733 recv_tcp_heartPacket.h:169] 8t root    32 Oct 18 
+I1020 02:13:40.805843 67733 recv_tcp_heartPacket.h:169] 819:04 initrd.img -> 
+I1020 02:13:40.805858 67733 recv_tcp_heartPacket.h:169] 8boot/initrd.img-4.4.
+I1020 02:13:40.805873 67733 recv_tcp_heartPacket.h:169] 80-42-generic
+lrwxrwx
+I1020 02:13:40.805889 67733 recv_tcp_heartPacket.h:169] 8rwx   1 root root   
+I1020 02:13:40.805904 67733 recv_tcp_heartPacket.h:169] 8 32 Oct 17 06:42 ini
+I1020 02:13:40.805920 67733 recv_tcp_heartPacket.h:169] 8trd.img.old -> boot/
+I1020 02:13:40.805935 67733 recv_tcp_heartPacket.h:169] 8initrd.img-4.4.0-21-
+I1020 02:13:40.805951 67733 recv_tcp_heartPacket.h:169] 8generic
+drwxr-xr-x  
+I1020 02:13:40.805966 67733 recv_tcp_heartPacket.h:169] 822 root root  4096 O
+I1020 02:13:40.805981 67733 recv_tcp_heartPacket.h:169] 8ct 17 06:43 lib
+drwx
+I1020 02:13:40.805997 67733 recv_tcp_heartPacket.h:169] 8r-xr-x   2 root root
+I1020 02:13:40.806012 67733 recv_tcp_heartPacket.h:169] 8  4096 Apr 20 15:07 
+I1020 02:13:40.806027 67733 recv_tcp_heartPacket.h:169] 8lib64
+drwx------   2
+I1020 02:13:40.806042 67733 recv_tcp_heartPacket.h:169] 8 root root 16384 Oct
+I1020 02:13:40.806057 67733 recv_tcp_heartPacket.h:169] 8 17 14:15 lost+found
+I1020 02:13:40.806073 67733 recv_tcp_heartPacket.h:169] 8
+drwxr-xr-x   4 root
+I1020 02:13:40.806088 67733 recv_tcp_heartPacket.h:169] 8 root  4096 Oct 17 0
+I1020 02:13:40.806103 67733 recv_tcp_heartPacket.h:169] 86:49 media
+drwxr-xr-
+I1020 02:13:40.806119 67733 recv_tcp_heartPacket.h:169] 8x   3 root root  409
+I1020 02:13:40.806134 67733 recv_tcp_heartPacket.h:169] 86 Oct 17 09:24 mnt
+d
+I1020 02:13:40.806150 67733 recv_tcp_heartPacket.h:169] 8rwxr-xr-x   3 root r
+I1020 02:13:40.806165 67733 recv_tcp_heartPacket.h:169] 8oot  4096 Oct 17 06:
+I1020 02:13:40.806180 67733 recv_tcp_heartPacket.h:169] 843 opt
+dr-xr-xr-x 27
+I1020 02:13:40.806195 67733 recv_tcp_heartPacket.h:169] 80 root root     0 Oc
+I1020 02:13:40.806210 67733 recv_tcp_heartPacket.h:169] 8t 19 22:35 proc
+drwx
+I1020 02:13:40.806226 67733 recv_tcp_heartPacket.h:169] 8------   6 root root
+I1020 02:13:40.806241 67733 recv_tcp_heartPacket.h:169] 8  4096 Oct 18 23:20 
+I1020 02:13:40.806257 67733 recv_tcp_heartPacket.h:169] 8root
+drwxr-xr-x  24 
+I1020 02:13:40.806272 67733 recv_tcp_heartPacket.h:169] 8root root   780 Oct 
+I1020 02:13:40.806288 67733 recv_tcp_heartPacket.h:169] 820 02:10 run
+drwxr-x
+I1020 02:13:40.806370 67733 recv_tcp_heartPacket.h:169] 8r-x   2 root root 12
+I1020 02:13:40.806387 67733 recv_tcp_heartPacket.h:169] 8288 Oct 18 19:02 sbi
+I1020 02:13:40.806403 67733 recv_tcp_heartPacket.h:169] 8n
+drwxr-xr-x   2 roo
+I1020 02:13:40.806418 67733 recv_tcp_heartPacket.h:169] 8t root  4096 Apr 19 
+I1020 02:13:40.806433 67733 recv_tcp_heartPacket.h:169] 8 2016 snap
+drwxr-xr-
+I1020 02:13:40.806449 67733 recv_tcp_heartPacket.h:169] 8x   2 root root  409
+I1020 02:13:40.806464 67733 recv_tcp_heartPacket.h:169] 86 Apr 20 15:07 srv
+d
+I1020 02:13:40.806480 67733 recv_tcp_heartPacket.h:169] 8r-xr-xr-x  13 root r
+I1020 02:13:40.806495 67733 recv_tcp_heartPacket.h:169] 8oot     0 Oct 20 02:
+I1020 02:13:40.806510 67733 recv_tcp_heartPacket.h:169] 813 sys
+drwxrwxrwt  1
+I1020 02:13:40.806525 67733 recv_tcp_heartPacket.h:169] 84 root root  4096 Oc
+I1020 02:13:40.806540 67733 recv_tcp_heartPacket.h:169] 8t 20 02:12 tmp
+drwxr
+I1020 02:13:40.806556 67733 recv_tcp_heartPacket.h:169] 8-xr-x  11 root root 
+I1020 02:13:40.806777 67733 recv_tcp_heartPacket.h:169] 8 4096 Apr 20 15:13 u
+I1020 02:13:40.806825 67733 recv_tcp_heartPacket.h:169] 8sr
+drwxr-xr-x  14 ro
+I1020 02:13:40.806845 67733 recv_tcp_heartPacket.h:169] 8ot root  4096 Apr 20
+I1020 02:13:40.806860 67733 recv_tcp_heartPacket.h:169] 8 15:19 var
+lrwxrwxrw
+I1020 02:13:40.806876 67733 recv_tcp_heartPacket.h:169] 8x   1 root root    2
+I1020 02:13:40.806891 67733 recv_tcp_heartPacket.h:169] 89 Oct 18 19:04 vmlin
+I1020 02:13:40.806906 67733 recv_tcp_heartPacket.h:169] 8uz -> boot/vmlinuz-4
+I1020 02:13:40.806921 67733 recv_tcp_heartPacket.h:169] 8.4.0-42-generic
+lrwx
+I1020 02:13:40.806937 67733 recv_tcp_heartPacket.h:169] 8rwxrwx   1 root root
+I1020 02:13:40.806952 67733 recv_tcp_heartPacket.h:169] 8    29 Oct 17 06:42 
+I1020 02:13:40.806969 67733 recv_tcp_heartPacket.h:169] 8vmlinuz.old -> boot/
+I1020 02:13:40.806984 67733 recv_tcp_heartPacket.h:169] 8vmlinuz-4.4.0-21-gen
+I1020 02:13:40.807004 67733 recv_tcp_heartPacket.h:169] 8eric
+uz-4.4.0-21-gen
+I1020 02:13:48.966660 67733 recv_tcp_heartPacket.h:169] 87E45007E4.4.0-21-gen
+I1020 02:13:58.967412 67733 recv_tcp_heartPacket.h:169] 87E45007E4.4.0-21-gen
+I1020 02:14:02.196022 67733 recv_tcp_heartPacket.h:169] 87E457E45
+.4.0-21-gen	
+I1020 02:14:02.201740 67733 recv_tcp_heartPacket.h:169] 87E257E25
+.4.0-21-gen	
+I1020 02:14:08.968022 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:14:18.968997 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:14:28.969825 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:14:38.970058 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:14:48.971529 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:14:54.713454 67733 recv_tcp_heartPacket.h:169] 87E457E45
+.4.0-21-gen	
+I1020 02:14:54.717195 67733 recv_tcp_heartPacket.h:169] 87E257E25
+.4.0-21-gen	
+I1020 02:14:58.972154 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:15:08.972414 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:15:18.973410 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:15:28.974171 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:15:38.990376 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:15:48.979015 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:15:58.979506 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:16:08.979720 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
+I1020 02:16:09.182968 67733 recv_tcp_heartPacket.h:169] 87E457E45
+.4.0-21-gen	
+I1020 02:16:09.194571 67733 recv_tcp_heartPacket.h:169] 87E257E25
+.4.0-21-gen	
+I1020 02:16:18.980054 67733 recv_tcp_heartPacket.h:169] 87E45007E
+.4.0-21-gen
