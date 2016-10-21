@@ -1,4 +1,0 @@
-Log file created at: 2016/10/19 22:48:41
-Running on machine: ubuntu
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-W1019 22:48:41.006781 13136 server.cpp:155] Recv_TCP_Packet_Thread_Func
