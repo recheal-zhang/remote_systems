@@ -9,7 +9,6 @@
  * Description: main thread for client
  *
  * **************************************************/
-
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
